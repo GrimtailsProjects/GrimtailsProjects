@@ -1,4 +1,4 @@
-baseURL = 'https://GrimtailsProjects.github.io/'
+baseURL = 'https://github.com/GrimtailsProjects/GrimtailsProjects'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "m10c"
