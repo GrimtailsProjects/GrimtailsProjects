@@ -2,25 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My Projects and Stuff im interested in :3</title>
-    <link>https://github.com/GrimtailsProjects/GrimtailsProjects/tags/</link>
+    <link>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/tags/</link>
     <description>Recent content in Tags on My Projects and Stuff im interested in :3</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2025 22:50:45 +0100</lastBuildDate>
-    <atom:link href="https://github.com/GrimtailsProjects/GrimtailsProjects/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Intro</title>
-      <link>https://github.com/GrimtailsProjects/GrimtailsProjects/tags/intro/</link>
-      <pubDate>Wed, 01 Jan 2025 22:50:45 +0100</pubDate>
-      <guid>https://github.com/GrimtailsProjects/GrimtailsProjects/tags/intro/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Start</title>
-      <link>https://github.com/GrimtailsProjects/GrimtailsProjects/tags/start/</link>
-      <pubDate>Wed, 01 Jan 2025 22:50:45 +0100</pubDate>
-      <guid>https://github.com/GrimtailsProjects/GrimtailsProjects/tags/start/</guid>
-      <description></description>
-    </item>
+    <atom:link href="http://localhost:1313/GrimtailsProjects/GrimtailsProjects/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
