@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/posts/crystals/</loc>
+    <loc>https://github.com/GrimtailsProjects/GrimtailsProjects/</loc>
     <lastmod>2025-01-02T15:06:38+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/</loc>
+    <loc>https://github.com/GrimtailsProjects/GrimtailsProjects/posts/</loc>
     <lastmod>2025-01-02T15:06:38+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/posts/</loc>
+    <loc>https://github.com/GrimtailsProjects/GrimtailsProjects/posts/test/</loc>
     <lastmod>2025-01-02T15:06:38+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/posts/test/</loc>
+    <loc>https://github.com/GrimtailsProjects/GrimtailsProjects/posts/crystals/</loc>
     <lastmod>2025-01-02T15:06:38+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/categories/allgemein/</loc>
+    <loc>https://github.com/GrimtailsProjects/GrimtailsProjects/categories/allgemein/</loc>
     <lastmod>2025-01-01T22:50:45+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/categories/</loc>
+    <loc>https://github.com/GrimtailsProjects/GrimtailsProjects/categories/</loc>
     <lastmod>2025-01-01T22:50:45+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/posts/a-problem/</loc>
+    <loc>https://github.com/GrimtailsProjects/GrimtailsProjects/posts/a-problem/</loc>
     <lastmod>2025-01-01T22:50:45+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/tags/intro/</loc>
+    <loc>https://github.com/GrimtailsProjects/GrimtailsProjects/tags/intro/</loc>
     <lastmod>2025-01-01T22:50:45+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/tags/start/</loc>
+    <loc>https://github.com/GrimtailsProjects/GrimtailsProjects/tags/start/</loc>
     <lastmod>2025-01-01T22:50:45+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/tags/</loc>
+    <loc>https://github.com/GrimtailsProjects/GrimtailsProjects/tags/</loc>
     <lastmod>2025-01-01T22:50:45+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/posts/wilkommen/</loc>
+    <loc>https://github.com/GrimtailsProjects/GrimtailsProjects/posts/wilkommen/</loc>
     <lastmod>2025-01-01T22:50:45+01:00</lastmod>
   </url>
 </urlset>
