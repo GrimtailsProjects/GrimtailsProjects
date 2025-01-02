@@ -5,4 +5,6 @@ title = 'Wilkommen'
 +++
 Hallo, dies ist ein Test!
 
+![The Fuck?](images/abc.jpg)
+
 Lorem Ipsum!

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Allgemein on My Projects and Stuff im interested in :3</title>
+    <link>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/categories/allgemein/</link>
+    <description>Recent content in Allgemein on My Projects and Stuff im interested in :3</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2025 22:50:45 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/GrimtailsProjects/GrimtailsProjects/categories/allgemein/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hier</title>
+      <link>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/posts/a-problem/</link>
+      <pubDate>Wed, 01 Jan 2025 22:50:45 +0100</pubDate>
+      <guid>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/posts/a-problem/</guid>
+      <description>&lt;h1 id=&#34;willkommen&#34;&gt;Willkommen!&lt;/h1&gt;&#xA;&lt;p&gt;Hallo, ich bin Grimtail und dies ist meine Webseite. Hier erfährst du mehr über mich und meine Projekte.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/avatar.jpg&#34; alt=&#34;The Fuck?&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;meine-interessen&#34;&gt;Meine Interessen&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Programmieren&lt;/li&gt;&#xA;&lt;li&gt;DIY-Projekte&lt;/li&gt;&#xA;&lt;li&gt;Kochen und Backen&lt;/li&gt;&#xA;&lt;li&gt;Elektronik und Technik&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;kontakt&#34;&gt;Kontakt&lt;/h2&gt;&#xA;&lt;p&gt;Du kannst mich über &lt;a href=&#34;https://github.com/GrimtailsProjects&#34;&gt;GitHub&lt;/a&gt; erreichen.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
