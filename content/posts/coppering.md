@@ -28,4 +28,4 @@ After adjusting the current properly, copper plating became possible. However, m
 It is crucial that the object is thoroughly cleaned of dust and grease beforehand, as proper plating will not occur otherwise.
 On the left is an object as it appeared after the electroplating bath, and on the right is the same object after a brief polish with regular metal polish. The result is definitely significant and speaks for itself.
 
-{{<horizontal left = `![Image](coppering_(1).jpg)` right = `![Image](coppering_(2).jpg)`>}}
+{{<horizontal left = `![Image](media/coppering_(1).jpg)` right = `![Image](media/coppering_(2).jpg)`>}}
