@@ -6,8 +6,29 @@
     <description>Recent content on My Projects and Stuff im interested in :3</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jan 2025 15:06:38 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 18:29:21 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/GrimtailsProjects/GrimtailsProjects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plastic Pyrolysis</title>
+      <link>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/posts/pyrolysis/</link>
+      <pubDate>Tue, 28 Jan 2025 18:29:21 +0100</pubDate>
+      <guid>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/posts/pyrolysis/</guid>
+      <description>&lt;h1 id=&#34;what-is-pyrolysis&#34;&gt;What is Pyrolysis?&lt;/h1&gt;&#xA;&lt;p&gt;Pyrolysis refers to the thermal decomposition of a material on a molecular level. In this case, the goal is to break down long-chain hydrocarbons, or polymers, into short-chain hydrocarbons. To achieve this, the starting material must be heated to several hundred degrees Celsius in an oxygen-free environment to initiate thermal cracking, during which the polymers break apart.&lt;/p&gt;&#xA;&lt;p&gt;Unfortunately, controlling where these breaks occur is challenging. As a result, this process yields a mix of outputs ranging from pure soot and hydrogen to liquid fractions resembling gasoline and diesel, as well as heavy oils and tar. Using temperature, catalysts, chamber pressure, and additives, these reactions can be better controlled, but for now, this is just the fundamental concept. My goal was to turn an old keyboard into a flammable liquid. Efficiency was not a priority.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>QuickFix: Ceramic Capacitor on my Motherboard</title>
+      <link>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/posts/quickfix_motherboard/</link>
+      <pubDate>Tue, 28 Jan 2025 17:30:14 +0100</pubDate>
+      <guid>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/posts/quickfix_motherboard/</guid>
+      <description>&lt;p&gt;One evening, there was a sudden bang, I felt a wave of heat on my leg, and my PC turned off. There was a burnt smell in the air. A ceramic capacitor had spectacularly failed (yes, those little beasts can pack a punch). Following the source of the smell, I found the damaged ceramic capacitor on my motherboard. Since these components never leave this world quietly, you can easily identify them on an otherwise intact motherboard by their missing half.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Copperplating</title>
+      <link>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/posts/coppering/</link>
+      <pubDate>Tue, 28 Jan 2025 16:34:51 +0100</pubDate>
+      <guid>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/posts/coppering/</guid>
+      <description>&lt;p&gt;Copper plating is a specialized category of electroplating. At its core, this means using electricity to apply an extremely thin layer of copper to another (conductive) material. This is typically done on another metal, but conductive plastics or similar materials could also be used.&#xA;For detailed technical background information, please refer to the following: &lt;a href=&#34;https://en.wikipedia.org/wiki/Copper_electroplating&#34;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;In general, copper oxidizes at the anode (+ pole) and is reduced and deposited on the cathode (- pole). This process takes place in a copper sulfate bath (also known as blue vitriol).&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Wonder of Crystals: Exploring the Wonders of Growth and Formation</title>
       <link>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/posts/crystals/</link>
