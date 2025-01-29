@@ -19,7 +19,7 @@ For my first setup, I cast the apparatus out of plaster because I needed somethi
 
 I loaded the removed keys from the keyboard into the apparatus and sealed it. The outlet was connected to a Liebig condenser leading to a container, while the excess gas was burned off via a gas trap.
 
-{{<horizontal left = `![Image](/images/pyrolysis01.jpg)` right = `![Image](/images/pyrolysis02.jpg)`>}}
+{{<horizontal left = `![Image](pyrolysis01.jpg)` right = `![Image](pyrolysis02.jpg)`>}}
 
 You can already see a tar-like green residue in the Liebig condenser, likely a combination of tar and copper oxide from the copper tube. This only formed at the beginning, when the chamber wasn’t yet up to temperature.
 
@@ -72,7 +72,3 @@ I then flared a small copper tube and drilled a tiny hole in the center for the 
 ---
 
 **Unfortunately, the project is currently paused due to time and space constraints. Any updates will be posted here.**
-
-
-![Image](/images/pyrolysis01.jpg)
-![Image](pyrolysis01.jpg)
