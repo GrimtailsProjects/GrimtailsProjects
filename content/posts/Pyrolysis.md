@@ -2,6 +2,9 @@
 date = '2025-01-28T18:29:21+01:00'
 draft = false
 title = 'Plastic Pyrolysis'
+categories = ["Chemistry"]
+summary= "Transforming plastic into fuel sounds like science fiction, but pyrolysis is already making it a reality!"
+image= "pyrolysis01.jpg"
 +++
 
 # What is Pyrolysis?
@@ -19,11 +22,18 @@ For my first setup, I cast the apparatus out of plaster because I needed somethi
 
 I loaded the removed keys from the keyboard into the apparatus and sealed it. The outlet was connected to a Liebig condenser leading to a container, while the excess gas was burned off via a gas trap.
 
-{{<horizontal left = `![Image](pyrolysis01.jpg)` right = `![Image](pyrolysis02.jpg)`>}}
+{{<horizontal left = `
+{{< image src="pyrolysis01.jpg" width=88% >}}
+` right = `
+{{< image src="pyrolysis02.jpg" width=90% >}}
+`>}}
+
 
 You can already see a tar-like green residue in the Liebig condenser, likely a combination of tar and copper oxide from the copper tube. This only formed at the beginning, when the chamber wasn’t yet up to temperature.
 
-{{<horizontal left = `![Image](pyrolysis03.jpg)` right = `
+{{<horizontal width = 25% left = `
+{{< image src="pyrolysis03.jpg" width=100% >}}
+` right = `
 The results were promising. While somewhat impure, I distilled the product again to remove the tar-like residues. I ended up with a slightly flammable fraction that smelled like a mix of burnt plastic and gasoline, as well as a yellow-brown paste that was almost glue-like after cooling. This encouraged me to continue.
 
 (Unfortunately, the images of this step have been lost.)
@@ -34,7 +44,10 @@ The results were promising. While somewhat impure, I distilled the product again
 ## The Second Prototype
 I needed a larger, more robust reaction chamber. During a visit to the recycling yard, I found an old gas cylinder that was perfect for the second prototype. However, I also needed a burner and a condenser. I decided to go fully DIY.
 
-{{<horizontal left = `![Image](pyrolysis04.jpg)` right = `
+
+{{<horizontal width = 30% left = `
+{{< image src="pyrolysis04.jpg" width=100% >}}
+` right = `
 I used a threaded pipe for the gas connection, a metal rod, a galvanized nut, and a piece of copper tubing. From these, I soldered together a nozzle with a burner, which I then machined on a lathe to create the nozzle hole and thread.
 
 I wasn’t worried about the solder melting because:
@@ -51,23 +64,31 @@ The nozzle is mounted at a 45° angle to the inlet to create a passive air draw.
 
 Next, I welded together a burner from square tubing and drilled holes into it. Unfortunately, 4mm holes were too large, so the flame wouldn’t sustain itself. I carefully sealed the holes with weld beads, as I didn’t have a finer drill bit that fit my drill press. While the result isn’t perfectly even, as you can tell from the flames, it was a decent first DIY burner without any gas leaks.
 
-{{<horizontal left = `![Image](pyrolysis07.jpg)` right = `
-![Image](pyrolysis05.jpg)
-![Image](pyrolysis06.jpg)
+{{<horizontal width = 50% left = `
+{{< image src="pyrolysis07.jpg" width=90% >}}
+` right = `
+{{< image src="pyrolysis05.jpg" width=90% >}}
+{{< image src="pyrolysis06.jpg" width=90% >}}
 `>}}
 
-{{<horizontal left = `![Image](pyrolysis09.jpg)` right = `
+
+{{<horizontal width = 30% left = `
+{{< image src="pyrolysis09.jpg" width=90% >}}
+` right = `
 I then filled several liters of water into the opened gas cylinder and attached the burner. Efficiency wasn’t the focus here, but the water started steaming after a few minutes and was boiling within 15 minutes. Test passed.
 
-Now it was time to build the Liebig condenser. I chose copper because it conducts heat well (essential for heat exchangers) and assembled it as shown on the left. To center the inner tube and seal it against water leaks, I used copper strands from an old cable and soldered the ends shut with a blowtorch and solder on both sides.
+Now it was time to build the Liebig condenser. I chose copper because it conducts heat well (essential for heat exchangers) and assembled it as shown below. To center the inner tube and seal it against water leaks, I used copper strands from an old cable and soldered the ends shut with a blowtorch and solder on both sides.
 
 I then flared a small copper tube and drilled a tiny hole in the center for the water exchange. I made this in duplicate to create two Liebig condensers.
 `>}}
 
-{{<horizontal left = `
-![Image](pyrolysis14.jpg)
-![Image](pyrolysis13.jpg)
-` right = `![Image](pyrolysis12.jpg)`>}}
+{{<horizontal width = 50% left = `
+{{< image src="pyrolysis14.jpg" width=70% >}}
+{{< image src="pyrolysis13.jpg" width=70% >}}
+` right = `
+{{< image src="pyrolysis12.jpg" width=70% >}}
+`>}}
+
 
 ---
 

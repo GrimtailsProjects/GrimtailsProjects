@@ -1,8 +1,14 @@
 baseURL = 'https://github.com/GrimtailsProjects/GrimtailsProjects'
 languageCode = 'en-us'
 title = 'My Projects and Stuff im interested in :3'
-theme = "m10c"
+theme = "grimtheme"
 
 author = "Grimtail"
 description = "Just a guy like me and you"
 avatar = "static/logo.webp"
+
+[taxonomies]
+    category = "categories"
+
+[params]
+mainSections = ["_index"]

@@ -1,8 +1,14 @@
+{{ $width := .Get "width" | default "50%" }}
+{{ $width = $width | safeCSS }}
+
+{{ $align := .Get "align" | default "center" }} <!-- Standard: mittig -->
+
+
 <div style="display: flex; gap: 20px;">
-    <div style="flex: 1;  align-content: center;">
-      {{ .Get "left" | markdownify }}
+    <div style="flex: 0 0 {{ $width }}; align-content: {{ $align }};">
+        {{ .Get "left" | markdownify }}
     </div>
-    <div style="flex: 1;align-content: center;">
-      {{ .Get "right" | markdownify }}
+    <div style="flex: 1; align-content: center;">
+        {{ .Get "right" | markdownify }}
     </div>
-  </div>
+</div>

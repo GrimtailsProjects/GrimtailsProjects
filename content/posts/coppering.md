@@ -2,6 +2,9 @@
 date = '2025-01-28T16:34:51+01:00'
 draft = false
 title = 'Copperplating'
+categories = ["Chemistry"]
+summary= "Imagine turning ordinary objects into gleaming copper creations. The process is simpler than you expect – and the results are stunning!"
+image= "media/coppering_(2).jpg"
 +++
 
 Copper plating is a specialized category of electroplating. At its core, this means using electricity to apply an extremely thin layer of copper to another (conductive) material. This is typically done on another metal, but conductive plastics or similar materials could also be used.
@@ -18,14 +21,18 @@ For my copper sulfate solution, I found an algae remover in the gardening sectio
 
 In the following example, I used an old brass lock (approximately 50% copper, 40% zinc as main components) to plate the copper onto the cathode and to extract it from the alloy.
 
-{{<video src = "media/coppering (3).mp4" loop = "true" width = "90%">}}
+{{<video src = "media/coppering (3).mp4" loop = "true" width = "80%">}}
 
 The current was set too high initially, which prevented a clean plating process. Instead, gases (hydrogen from the electrolysis of water) formed on the surface. These gases caused the copper to expand like a sponge. This can be observed clearly through the rising gas bubbles.
 
-{{<video src = "media/coppering (2).mp4" loop = "true" width = "90%">}}
+{{<video src = "media/coppering (2).mp4" loop = "true" width = "80%">}}
 
 After adjusting the current properly, copper plating became possible. However, my setup was not ideal, which resulted in the layer not being perfectly applied.
 It is crucial that the object is thoroughly cleaned of dust and grease beforehand, as proper plating will not occur otherwise.
 On the left is an object as it appeared after the electroplating bath, and on the right is the same object after a brief polish with regular metal polish. The result is definitely significant and speaks for itself.
 
-{{<horizontal left = `![Image](media/coppering_(1).jpg)` right = `![Image](media/coppering_(2).jpg)`>}}
+{{<horizontal left = `
+{{< image src="media/coppering_(1).jpg" width=80% >}}
+` right = `
+{{< image src="media/coppering_(2).jpg" width=80% >}}
+`>}}

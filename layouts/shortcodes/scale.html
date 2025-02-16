@@ -1,0 +1,6 @@
+{{ $size := .Get "size" | default "100%" }}
+
+<!-- Skalierter Text -->
+<div class="text-scale" style="font-size: {{ $size }};">
+    {{ .Inner | markdownify }}
+</div>

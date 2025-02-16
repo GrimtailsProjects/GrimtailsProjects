@@ -1,0 +1,4 @@
+{{ $src := .Get "src" }}
+{{ $width := .Get "width" | default "" }}
+
+<img src="{{ $src }}" class="custom-image" alt="image" {{ with $width }}style="width: {{ . }};"{{ end }}>

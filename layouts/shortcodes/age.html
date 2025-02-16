@@ -1,0 +1,13 @@
+{{ $birthYear := 1995 }}
+{{ $birthMonth := 6 }}  <!-- Setze hier deinen Geburtsmonat (Januar = 1, Februar = 2, etc.) -->
+
+{{ $currentYear := now.Year }}
+{{ $currentMonth := now.Format "1" | int }}  <!-- Konvertiert den Monat in eine Zahl -->
+
+{{ $age := sub $currentYear $birthYear }}
+
+{{ if lt $currentMonth $birthMonth }}
+    {{ $age = sub $age 1 }}  <!-- Falls der Geburtstag noch nicht war, ziehe 1 ab -->
+{{ end }}
+
+{{ $age }}

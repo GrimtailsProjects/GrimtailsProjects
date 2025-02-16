@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chemistry on My Projects and Stuff im interested in :3</title>
+    <link>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/categories/chemistry/</link>
+    <description>Recent content in Chemistry on My Projects and Stuff im interested in :3</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jan 2025 18:29:21 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/GrimtailsProjects/GrimtailsProjects/categories/chemistry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plastic Pyrolysis</title>
+      <link>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/posts/pyrolysis/</link>
+      <pubDate>Tue, 28 Jan 2025 18:29:21 +0100</pubDate>
+      <guid>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/posts/pyrolysis/</guid>
+      <description>Transforming plastic into fuel sounds like science fiction, but pyrolysis is already making it a reality!</description>
+    </item>
+    <item>
+      <title>Copperplating</title>
+      <link>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/posts/coppering/</link>
+      <pubDate>Tue, 28 Jan 2025 16:34:51 +0100</pubDate>
+      <guid>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/posts/coppering/</guid>
+      <description>Imagine turning ordinary objects into gleaming copper creations. The process is simpler than you expect – and the results are stunning!</description>
+    </item>
+    <item>
+      <title>Wonder of Crystals: Exploring the Wonders of Growth and Formation</title>
+      <link>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/posts/crystals/</link>
+      <pubDate>Thu, 02 Jan 2025 15:06:38 +0100</pubDate>
+      <guid>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/posts/crystals/</guid>
+      <description>Explore the mesmerizing world of crystal growth and see how simple chemical substances can create stunning natural patterns.</description>
+    </item>
+  </channel>
+</rss>

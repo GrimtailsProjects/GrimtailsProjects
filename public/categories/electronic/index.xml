@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electronic on My Projects and Stuff im interested in :3</title>
+    <link>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/categories/electronic/</link>
+    <description>Recent content in Electronic on My Projects and Stuff im interested in :3</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jan 2025 17:30:14 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/GrimtailsProjects/GrimtailsProjects/categories/electronic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QuickFix: Ceramic Capacitor on my Motherboard</title>
+      <link>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/posts/quickfix_motherboard/</link>
+      <pubDate>Tue, 28 Jan 2025 17:30:14 +0100</pubDate>
+      <guid>http://localhost:1313/GrimtailsProjects/GrimtailsProjects/posts/quickfix_motherboard/</guid>
+      <description>When a tiny capacitor fails spectacularly, does it mean the end of your motherboard? Not if you&amp;rsquo;re ready to fix it yourself!</description>
+    </item>
+  </channel>
+</rss>
