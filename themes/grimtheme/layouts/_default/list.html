@@ -1,0 +1,27 @@
+
+
+
+{{ define "main" }}
+<div class="post-grid">
+  {{ range .Paginator.Pages }}
+  <div class="post-card">
+    <a href="{{ .Permalink }}">
+      <div class="post-card-image">
+        <img src="{{ .Page.RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}">
+      </div>
+      <div class="post-card-content">
+        <h2 class="post-card-title">{{ .Title }}</h2>
+        <div class="tag-icon">
+          {{ partial "icon.html" (dict "ctx" $ "name" "calendar") }}
+          {{ .PublishDate.Format "Jan 2, 2006" }}
+          <span class="post-card-separator">-</span>
+          {{ partial "icon.html" (dict "ctx" $ "name" "clock") }}
+          {{ .ReadingTime }} min read
+        </div>
+        <p class="post-card-summary">{{ .Params.summary | default "Keine Zusammenfassung verfügbar." }}</p>
+      </div>
+    </a>
+  </div>
+  {{ end }}
+</div>
+{{ end }}
