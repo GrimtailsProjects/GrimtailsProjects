@@ -32,7 +32,7 @@ I enjoy tackling complex problems, learning across disciplines, and improving my
 Let’s connect and share ideas! 
 [Contact me](mailto:grimtailstuff@gmail.com)
 
-*The entire Hugo design, including all shortcodes, has been custom-built by me. If you discover any bugs or issues, feel free to report them via the provided email.*  
+*The entire Hugo design, including all shortcodes, has been custom-made by me based of the structure of m10c. If you discover any bugs or issues, feel free to report them via the provided email.*  
 
 
 *Unless otherwise stated, all images, including the blog's logo, are either created by me or generated using AI (ChatGPT/DALL·E). This disclaimer applies to the entire blog.*
